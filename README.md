@@ -16,6 +16,7 @@ con un diseño responsive y funcionalidades basicas.
 +  **Google Fonts**: Para fuentes personalizadas.
 
 ### Vista previa del proyecto 
+![Demo](/imagenes/Captura de pantalla Pinterest.png)
 
 
 ### Licencia 
