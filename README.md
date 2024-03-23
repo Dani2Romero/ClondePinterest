@@ -15,8 +15,7 @@ con un diseño responsive y funcionalidades basicas.
 + **CSS3**: Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo
 +  **Google Fonts**: Para fuentes personalizadas.
 
-### Vista previa del proyecto 
-![Demo](/imagenes/Captura de pantalla Pinterest.png)
+
 
 
 ### Licencia 
